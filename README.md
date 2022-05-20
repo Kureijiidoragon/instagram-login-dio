@@ -1,4 +1,4 @@
-# instragram-login-dio
+# instagram-login-dio
 
 Projeto do desafio "Recriando a página inicial do Instagram",
 do Bootcamp "HTML Web Developer" da DIO.
